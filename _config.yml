@@ -1,25 +1,25 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Kang-Hua Wu
-description: Kang-Hua's website
-keywords: Kang-Hua,Wu,Jekyll,github
+title: Stephen Chen
+description: Stephen's website
+keywords: Stephen,Chen,Jekyll,github
 baseurl: "" # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://kanghuawu.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://stephen-sh-chen.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Kang-Hua  # Be used at blog posts' author.
-  first_name: Kang-Hua  # Be used at index page about me section.
-  last_name: Wu  # Be used at index page about me section.
+  name: Stephen  # Be used at blog posts' author.
+  first_name: Stephen  # Be used at index page about me section.
+  last_name: Chen  # Be used at index page about me section.
   avatar: /static/assets/img/landing/stephen_github_avatar.jpeg  # upload your avatar at directory and edit it.
-  github_username: kanghuawu  # Leave blank if you don't have now
-  linkedin_id: kanghuawu # Leave blank if you don't have now
+  github_username: stephen-sh-chen  # Leave blank if you don't have now
+  linkedin_id: stephen-sh-chen # Leave blank if you don't have now
   # facebook_username: jiakunnj  # Leave blank if you don't have now
   # twitter_username: jiakun614  # Leave blank if you don't have now
-  email: kang-hua.wu@sjsu.edu  # Leave blank if you don't have now
+  email: stephen.tw.chen@gmail.com  # Leave blank if you don't have now
   #cv: https://kanghuawu.github.io/CV/  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -36,8 +36,8 @@ author:  # change following line to your infomation.
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-112753021-1
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#  id: UA-112753021-1
 
 ## google optimize
 go:

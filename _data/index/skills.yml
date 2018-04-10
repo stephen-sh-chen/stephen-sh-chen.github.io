@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Spring, Django, AWS, ReactJS, Cassandra, MySQL, Kubernetes, Spark/Hadoop
+percentage:  90,     80,  80,      70,        80,    90,         70,           80

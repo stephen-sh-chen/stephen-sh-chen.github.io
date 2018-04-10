@@ -1,0 +1,57 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: San Jose State University
+  desc:
+    detail: Focusing on web development (Spring/Django) and data processing (Hadoop/Spark/Kafka).
+  date:
+    detail: Sep. 2016
+  job:
+    detail: Software Engineering Dept Student
+  icon: fa-plus-square
+
+- name:
+    detail: Taiwan Semiconductor Manufacturing Company
+  desc:
+    detail: Coordinated with engineers from three different departments to design and implement new software application for wafer process handling and data analysis.
+  date:
+    detail: Oct. 2013
+  job:
+    detail: Integration Engineer
+  icon: fa-plus-square
+
+- name:
+    detail: Taiwan Semiconductor Manufacturing Company
+    i18n: company_b
+  desc:
+    detail: Oversaw production lines of 1000 wafers per month and updated weekly reports to customer.
+  date:
+    detail: Oct. 2012
+    i18n: company_b_date
+  job:
+    detail: Process Integration Engineer
+  icon: fa-plus-square
+
+- name:
+    detail: National Tsing Hua University
+  desc:
+    detail: Specialized in thin film analysis - high-k (Al2O3/Hf2O3/Gd2O3) on III-V semiconductors (GaAs/InGaAs/GaN)
+  date:
+    detail: Sep. 2009
+  job:
+    detail: Material Science Dept Student
+  icon: fa-plus-square
+
+# - name:
+#     detail: Company A
+#     i18n: company_a
+#   desc:
+#     detail: I worked at Company A ...
+#     i18n: company_a_desc
+#   date:
+#     detail: Apr. 2016
+#     i18n: company_a_date
+#   job:
+#     detail: CTO
+#     i18n: company_a_job
+#   icon: fa-plus-square

@@ -1,0 +1,64 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Bike Rental System
+  gh_user: kanghuawu
+  repo: Bike-Rental-System
+  img: /static/assets/img/landing/bike-logo-transparent.png
+  desc: non-blocking transaction system utilizing design patterns including Event Souring and Command Query Responsibility Segregation.
+
+- name: Train Booking System
+  gh_user: kanghuawu
+  repo: EntAppDev-CalTrain
+  img: /static/assets/img/landing/train-logo.png
+  desc: Railway ticket booking system base on React, Spring and MySQL stack and MVP design pattern.
+
+- name: Library Booking System
+  gh_user: kanghuawu
+  repo: SmartPhoneApp-LibraryApp
+  img: /static/assets/img/landing/library-logo.jpg
+  desc: Android App for university library with two access control modes - librarian mode and patron mode
+
+- name: Little Brother Friends of Elderly
+  gh_user: kanghuawu
+  repo: LBFE-SF
+  img: /static/assets/img/landing/LBFE-logo-small.png
+  desc: React and Django web application for volunteers to document their visits with the elderly for nonprofit organization - Little Brother Friends Elderly, San Francisco.
+
+- name: Multi-tenant Grading System
+  gh_user: kanghuawu
+  repo: UMLGrader
+  img: /static/assets/img/landing/multi-tenant-logo.png
+  desc: Django scalable SaaS App on AWS support multi-tenancy.
+
+- name: Starbuck Clone
+  gh_user: kanghuawu
+  repo: Starbuck_BackEnd_Tenant
+  img: /static/assets/img/landing/starbucks-logo.png
+  desc: Django scalable SaaS App on AWS support multi-tenancy.
+
+- name: Java UML parser
+  gh_user: kanghuawu
+  repo: JavaUML_Parser
+  img: /static/assets/img/landing/uml-diagram.png
+  desc: Java parser for generating UML class diagrams as well as sequence diagrams.
+
+- name: Raspberry Pi Deployer
+  gh_user: kanghuawu
+  repo: RaspberryPi_Deployer
+  img: /static/assets/img/landing/raspberry-pi-logo.png
+  desc: Heroku-like Continuous Integration & Continuous Development pipeline on Raspberry Pi for Flask app.
+
+- name: Smart IDE
+  gh_user: kanghuawu
+  repo: SmartIDE
+  img: /static/assets/img/landing/Smart-IDE.png
+  desc: NetBeans plug-in for developers’s efficiency by alleviating time spent on repeated searching and googling.
+
+# - name: Java UML parser
+#   url: https://google.com
+#   gh_user: kanghuawu
+#   repo: JavaUML_Parser
+#   img: /static/assets/img/landing/uml-diagram.png
+#   desc: This is another project.

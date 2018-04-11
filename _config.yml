@@ -28,8 +28,13 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-java
     - name: icon-python
-  desc: Hi, I am Kang-Hua. I worked at TSMC where chips are manufactured for designers such as Apple and Qualcomm. More often than not, the smartphone you are using has chips made by TSMC. Started as semiconductor engineer, I gained experiences in research advanced technology (7/16nm) as well as mass production (28nm). However, it was an internal software tool development turned me into a coding enthusiast. I left the $25 billion revenue company and started my programming journey. Now I am a student at San Jose State University focusing on backend development.  # Describe yourself.
-
+  desc: <div align="left"> <font size="3">
+        ● 7+ years of work experience in software development (Intel, IBM, Datrium, and Phoenix)<br/>
+        ● Experience of AWS, OpenStack Cloud software development.<br/>
+        ● Experience of the full lifecycle of Android and iOS development (Java, Swift, Objective-C).<br/>
+        ● Cross-hardware/firmware/software development skills in Server and PC/Notebook products.<br/>
+        </font> </div>
+        
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #   name: jalpc

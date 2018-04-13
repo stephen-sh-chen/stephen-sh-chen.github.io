@@ -1,45 +1,63 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: San Jose State University
+    detail: San Jose State University </br> - MS of Software Engineering
   desc:
-    detail: Focusing on web development (Spring/Django) and data processing (Hadoop/Spark/Kafka).
+    detail: ● Specialization in Cloud and Mobile Computing (AWS, OpenStack, Elasticsearch, Docker, iOS, Andriod App)
   date:
-    detail: Sep. 2016
+    detail: Sep. 2016 - May. 2018
   job:
-    detail: Software Engineering Dept Student
+    detail: MS of Software Engineering
   icon: fa-plus-square
 
 - name:
-    detail: Taiwan Semiconductor Manufacturing Company
+    detail: Datrium </br> - Software Engineer Intern
   desc:
-    detail: Coordinated with engineers from three different departments to design and implement new software application for wafer process handling and data analysis.
+    detail: ● Built a high scalability log collection and analysis system based on the ELK stack by Docker. (Elasticsearch, Logstash, Kibana, Docker)
   date:
-    detail: Oct. 2013
+    detail: Jun. 2017 - Sep. 2017
   job:
-    detail: Integration Engineer
+    detail: Software Engineer Intern
   icon: fa-plus-square
 
 - name:
-    detail: Taiwan Semiconductor Manufacturing Company
+    detail: Intel Corporation </br> - Software Application Engineer
     i18n: company_b
   desc:
-    detail: Oversaw production lines of 1000 wafers per month and updated weekly reports to customer.
+    detail: ● Enabled Intel Firmware Security features to customers, increased the adoption rate from 20% to 70%.</br>
+            ● Provided direct customer support for PC/Notebook Company regarding Intel pre-boot firmware issues.     
   date:
-    detail: Oct. 2012
+    detail: Aug. 2013 - Sep. 2015
     i18n: company_b_date
   job:
-    detail: Process Integration Engineer
+    detail: Software Application Engineer
   icon: fa-plus-square
 
 - name:
-    detail: National Tsing Hua University
+    detail: IBM Corporation </br> - Staff Software Engineer
+    i18n: company_b
   desc:
-    detail: Specialized in thin film analysis - high-k (Al2O3/Hf2O3/Gd2O3) on III-V semiconductors (GaAs/InGaAs/GaN)
+    detail: ● Developed in-house pre-boot firmware for IBM System X Server products. (PCIE, C, Python, UEFI, BIOS)</br>
+            ● Delivered kernel code base of the pre-boot firmware for 100K+ IBM System X server products. (Agile)<br>
+            ● Enhanced fault tolerance to mitigate CPU mismatch problem in Intel multi-core server system. (RAS)
   date:
-    detail: Sep. 2009
+    detail: Aug. 2010 - Aug. 2013
+    i18n: company_b_date
   job:
-    detail: Material Science Dept Student
+    detail: Staff Software Engineer
+  icon: fa-plus-square
+
+- name:
+    detail: Phoenix Technologies Corporation </br> - Staff Software Engineer
+    i18n: company_b
+  desc:
+    detail: ● Develop PC BIOS firmware using Intel x86 assembly language. (PCIe, ACPI, BIOS)
+            ● Designed and developed pre-boot firmware to support Intel chipset and industry specifications. (PCI, PCIE)
+  date:
+    detail: Aug. 2008 - Aug. 2010
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
   icon: fa-plus-square
 
 # - name:
